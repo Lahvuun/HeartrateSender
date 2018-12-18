@@ -1,0 +1,4 @@
+<resources>
+    <string name="hrsensor_waiting">Waiting for heart rate sensor readings...</string>
+    <string name="hello_world">Hello Round World!</string>
+</resources>
